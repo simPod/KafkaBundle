@@ -20,7 +20,7 @@ use const SIGHUP;
 use const SIGINT;
 use const SIGTERM;
 
-final class ConsumeCommand extends Command
+class ConsumeCommand extends Command
 {
     private const ARGUMENT_DESCRIPTION = 'Consumer name';
     private const ARGUMENT_NAME        = 'consumerName';
