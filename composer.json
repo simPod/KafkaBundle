@@ -13,13 +13,13 @@
         "sort-packages": true
     },
     "require": {
-        "php": "^7.2",
+        "php": "^7.4",
         "simpod/kafka": "^0.1.0",
-        "symfony/config": "^4.3|^5.0",
-        "symfony/console": "^4.3|^5.0",
+        "symfony/config": "^5.0",
+        "symfony/console": "^5.0",
         "symfony/contracts": "^1.1|^2.0",
-        "symfony/dependency-injection": "^4.3|^5.0",
-        "symfony/framework-bundle": "^4.3|^5.0",
+        "symfony/dependency-injection": "^5.0",
+        "symfony/framework-bundle": "^5.0",
         "thecodingmachine/safe": "^1.0.2"
     },
     "require-dev": {
